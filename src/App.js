@@ -5,6 +5,8 @@ import {
   Routes,
   Route
 } from 'react-router-dom'
+import Add from './components/Add';
+import List from './components/List';
 
 const App = () => {
   return (
@@ -16,8 +18,8 @@ const App = () => {
         </div>
         <div className="main">
           <Routes>
-            {/* <Route path='/'/>
-            <Route path='/list' /> */}
+            <Route path='/' element={<Add />}/>
+            <Route path='/list' element={<List />} />
           </Routes>
         </div>
       </BrowserRouter>
