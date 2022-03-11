@@ -1,0 +1,544 @@
+[
+    [
+        "tv",
+        "tab",
+        "phone"
+    ],
+    [
+        {
+            "category": "tv",
+            "name": "75\" Q60R 4K Smart QLED TV 2019",
+            "image": "https://images.samsung.com/is/image/samsung/kz-ru-qled-q60r-row-qe75q60rauxce-frontblack-thumb-150828469?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "size": "‎49”‎, ‎55”‎, ‎65”‎, ‎75”‎"
+                }
+            ],
+            "oldQty": 400,
+            "newQty": 385
+        },
+        {
+            "category": "tv",
+            "name": "75\" Q95T 4K Smart QLED TV 2020",
+            "image": "https://images.samsung.com/is/image/samsung/uz-ru-qledtv-q95t-qe75q95tauxce-frontsilver-thumb-239827163?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "size": "‎55”‎, ‎65”‎, ‎75”‎"
+                }
+            ],
+            "oldQty": 550,
+            "newQty": 495
+        },
+        {
+            "category": "tv",
+            "name": "55\" Q80T 4K Smart QLED TV 2020",
+            "image": "https://images.samsung.com/is/image/samsung/uz-ru-qledtv-q80t-qe55q80tauxce-frontsilver-thumb-239826510?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "size": "‎55”‎"
+                }
+            ],
+            "oldQty": 200,
+            "newQty": 195
+        },
+        {
+            "category": "tv",
+            "name": "85\" Q70T 4K Smart QLED TV 2020",
+            "image": "https://images.samsung.com/is/image/samsung/uz-ru-qledtv-q70t-qe85q70tauxce-frontgrey-thumb-239801233?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "size": "‎55”‎, ‎65”‎, ‎75”‎, ‎85”‎"
+                }
+            ],
+            "oldQty": 750,
+            "newQty": 655
+        },
+        {
+            "category": "tv",
+            "name": "75\" Q60T 4K Smart QLED TV 2020",
+            "image": "https://images.samsung.com/is/image/samsung/uz-ru-qledtv-q60t-qe75q60tauxce-front--black-thumb-254426715?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "size": "‎43”‎, ‎50\"‎, ‎55”‎, ‎58\"‎, ‎65”‎, ‎75”‎"
+                }
+            ],
+            "oldQty": 400,
+            "newQty": 370
+        },
+        {
+            "category": "tv",
+            "name": "75\" Q90R 4K Smart QLED TV 2019",
+            "image": "https://images.samsung.com/is/image/samsung/kz-ru-qled-q90r-row-qe75q90rauxce-frontblack-thumb-154780494?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "size": "‎55”‎, ‎65”‎, ‎75”‎"
+                }
+            ],
+            "oldQty": 384,
+            "newQty": 375
+        },
+        {
+            "category": "tv",
+            "name": "65\" Q80R 4K Smart QLED TV 2019",
+            "image": "https://images.samsung.com/is/image/samsung/kz-ru-qled-q80r-row-qe65q80rauxce-frontsilver-thumb-151829372?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "size": "‎65”‎"
+                }
+            ],
+            "oldQty": 220,
+            "newQty": 215
+        },
+        {
+            "category": "tv",
+            "name": "65\" Q70R 4K Smart QLED TV 2019",
+            "image": "https://images.samsung.com/is/image/samsung/kz-ru-qled-q70r-row-qe65q70rauxce-frontblack-thumb-151828737?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "size": "‎55”‎, ‎65”‎"
+                }
+            ],
+            "oldQty": 400,
+            "newQty": 385
+        },
+        {
+            "category": "tv",
+            "name": "65\" Q67R 4K Smart QLED TV 2019",
+            "image": "https://images.samsung.com/is/image/samsung/kz-ru-qled-q67r-row-qe65q67rauxce-frontsilver-thumb-151828411?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "size": "‎55”‎, ‎65”‎"
+                }
+            ],
+            "oldQty": 580,
+            "newQty": 525
+        },
+        {
+            "category": "tv",
+            "name": "75\" Q9F 4K Плоский Smart QLED TV",
+            "image": "https://images.samsung.com/is/image/samsung/kz-ru-qledtv-q9fn-qe75q9fnauxce-frontsilver-thumb-98004162?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "size": "‎65”‎, ‎75”‎"
+                }
+            ],
+            "oldQty": 652,
+            "newQty": 623
+        },
+        {
+            "category": "tv",
+            "name": "75\" Q7F 4K Плоский Smart QLED TV 2018",
+            "image": "https://images.samsung.com/is/image/samsung/kz-ru-qledtv-q7fn-qe75q7fnauxce-fronttitanumsilver-thumb-97734434?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "size": "‎55”‎, ‎65”‎, ‎75”‎"
+                }
+            ],
+            "oldQty": 335,
+            "newQty": 305
+        },
+        {
+            "category": "tv",
+            "name": "75\" Q6F 4K Плоский Smart QLED TV",
+            "image": "https://images.samsung.com/is/image/samsung/kz-ru-qledtv-q6fn-qe75q6fnauxce-frontsilver-thumb-107193690?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "size": "‎49”‎, ‎55”‎, ‎65”‎, ‎75”‎"
+                }
+            ],
+            "oldQty": 400,
+            "newQty": 385
+        },
+        {
+            "category": "tv",
+            "name": "65\" Crystal UHD 4K Smart TV TU8500 Series 8",
+            "image": "https://images.samsung.com/is/image/samsung/uz-ru-uhd-tu8500-ue65tu8500uxce-frontblack-thumb-239865564?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "size": "‎43”‎, ‎50\"‎, ‎55”‎, ‎65”‎"
+                }
+            ],
+            "oldQty": 222,
+            "newQty": 186
+        },
+        {
+            "category": "tv",
+            "name": "82\" Crystal UHD 4K Smart TV TU8000 Series 8",
+            "image": "https://images.samsung.com/is/image/samsung/uz-ru-uhd-tu8000-ue82tu8000uxce-frontblack-thumb-239840456?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "size": "‎43”‎, ‎50\"‎, ‎55”‎, ‎65”‎, ‎75”‎, ‎82”‎"
+                }
+            ],
+            "oldQty": 525,
+            "newQty": 500
+        },
+        {
+            "category": "tv",
+            "name": "75\" Crystal UHD 4K Smart TV TU7500 Series 7",
+            "image": "https://images.samsung.com/is/image/samsung/uz-ru-uhd-tu7500-ue75tu7500uxce-frontblack-thumb-239864967?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "size": "‎50\"‎, ‎55”‎, ‎65”‎, ‎75”‎"
+                }
+            ],
+            "oldQty": 364,
+            "newQty": 350
+        },
+        {
+            "category": "tv",
+            "name": "75\" Crystal UHD 4K Smart TV TU7100 Series 7",
+            "image": "https://images.samsung.com/is/image/samsung/uz-ru-uhd-tu7000-ue75tu7100uxce-front-thumb-239838626?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "size": "‎43”‎, ‎50\"‎, ‎55”‎, ‎58\"‎, ‎65”‎, ‎70”‎, ‎75”‎"
+                }
+            ],
+            "oldQty": 790,
+            "newQty": 755
+        },
+        
+        
+       {
+            "category": "tab",
+            "name": "Galaxy Tab S7",
+            "image": "https://images.samsung.com/is/image/samsung/uz-ru-galaxy-tab-s7-t875-sm-t875nzkacac-frontmysticblack-thumb-288322768?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "colors": "черный,бронза,серебро",
+                    "capacity": "‎128 ГБ‎"
+                }
+            ],
+            "oldQty": 290,
+            "newQty": 275
+        },
+        {
+            "category": "tab",
+            "name": "Galaxy Tab S7+",
+            "image": "https://images.samsung.com/is/image/samsung/uz-ru-galaxy-tab-s7-plus-t975-sm-t975nzkacac-frontmysticblack-thumb-288324127?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "colors": "черный,бронза,серебро",
+                    "capacity": "‎128 ГБ‎"
+                }
+            ],
+            "oldQty": 400,
+            "newQty": 281
+        },
+        {
+            "category": "tab",
+            "name": "Galaxy Tab S6 Lite ",
+            "image": "https://images.samsung.com/is/image/samsung/uz-ru-galaxy-tab-s6-lite-p615-sm-p615nzaacac-frontgray-thumb-260742314?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "colors": "серый,голубой,розовый",
+                    "capacity": ""
+                }
+            ],
+            "oldQty": 560,
+            "newQty": 555
+        },
+        {
+            "category": "tab",
+            "name": "Galaxy Tab S6",
+            "image": "https://images.samsung.com/is/image/samsung/kz-ru-galaxy-tabs6-t865-sm-t865nzaaskz-frontgray-thumb-176480193?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "colors": "серый,золотой",
+                    "capacity": "‎128 ГБ‎"
+                }
+            ],
+            "oldQty": 480,
+            "newQty": 456
+        },
+        {
+            "category": "tab",
+            "name": "Galaxy Tab S5e LTE",
+            "image": "https://images.samsung.com/is/image/samsung/kz-ru-galaxy-tab-s5e-t725-sm-t725nzdaskz-frontgold-thumb-159251869?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "colors": "золотой,черный",
+                    "capacity": "‎64 ГБ‎"
+                }
+            ],
+            "oldQty": 400,
+            "newQty": 385
+        },
+        {
+            "category": "tab",
+            "name": "Galaxy Tab S4",
+            "image": "https://images.samsung.com/is/image/samsung/kz-ru-galaxy-tabs4-t835-sm-t835nzkaskz-frontblack-thumb-110578561?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "colors": "чёрный",
+                    "capacity": "‎64 ГБ‎"
+                }
+            ],
+            "oldQty": 143,
+            "newQty": 120
+        },
+        {
+            "category": "tab",
+            "name": "Galaxy Tab A10.1 LTE",
+            "image": "https://images.samsung.com/is/image/samsung/kz-ru-galaxy-tab-a-2019-101-sm-t515nzddskz-frontgold-thumb-159251935?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "colors": "золотой,черный",
+                    "capacity": "‎32 ГБ‎"
+                }
+            ],
+            "oldQty": 350,
+            "newQty": 320
+        },
+        {
+            "category": "tab",
+            "name": "Galaxy Tab A 8.0 2019 LTE",
+            "image": "https://images.samsung.com/is/image/samsung/kz-ru-galaxy-taba-t295-sm-t295nzkaskz-frontblack-thumb-183175435?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "colors": "черный,серебристый",
+                    "capacity": "‎32 ГБ‎"
+                }
+            ],
+            "oldQty": 420,
+            "newQty": 410
+        },
+        {
+            "category": "tab",
+            "name": "Galaxy Tab A (8.0\", LTE)",
+            "image": "https://images.samsung.com/is/image/samsung/kz-ru-galaxy-tab-a-2017-80-sm-t385nzdaskz-frontgold-thumb-118791474?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "colors": "золотой,черный",
+                    "capacity": "‎16 ГБ‎"
+                }
+            ],
+            "oldQty": 410,
+            "newQty": 386
+        },
+        {
+            "category": "tab",
+            "name": "Galaxy Tab A 2016 (7.0, LTE)",
+            "image": "https://images.samsung.com/is/image/samsung/kz_ru-galaxy-tab-a-7-0-2016-t285-sm-t285nzkaskz-000000001-front-black-thumb-1?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "colors": "чёрный,белый",
+                    "capacity": ""
+                }
+            ],
+            "oldQty": 400,
+            "newQty": 385
+        },
+        {
+            "category": "tab",
+            "name": "Galaxy Tab E (9.6, 3G)",
+            "image": "https://images.samsung.com/is/image/samsung/kz_ru-galaxy-tab-e-9-6-t561-sm-t561nzkaskz-000000001-front-black-thumb-1?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "colors": "black,white",
+                    "capacity": ""
+                }
+            ],
+            "oldQty": 400,
+            "newQty": 385
+        },
+        {
+            "category": "phone",
+            "name": "Galaxy Z Fold2",
+            "image": "https://images.samsung.com/is/image/samsung/uz-ru-galaxy-z-fold2-f916-sm-f916bzkqskz-frontmysticblack-thumb-292303858?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "colors": "черный",
+                    "nimadissdlnsgrnsdrgnsdprignrews":"dddddddddddddddddddddddddddddddddddddddddddddddddd"
+                }
+            ],
+            "oldQty": 400,
+            "newQty": 385
+        },
+        {
+            "category": "phone",
+            "name": "Galaxy Z Flip",
+            "image": "https://images.samsung.com/is/image/samsung/uz_ru/galaxy-s20/gallery/uz-ru-galaxy-z-flip-f700-sm-f700fzkdcac-frontmirrorblack-thumb-209107684?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "colors": "черный,пурпурный",
+                    "capacity": "256 ГБ"
+                }
+            ],
+            "oldQty": 400,
+            "newQty": 385
+        },
+        {
+            "category": "phone",
+            "name": "Galaxy S20 FE",
+            "image": "https://images.samsung.com/is/image/samsung/uz-ru-galaxy-s20-fe-g780-sm-g780flvdcac-frontcloudlavendar-thumb-305260886?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "colors": "лаванда,синий,мята,красный,белый",
+                    "capacity": "None"
+                }
+            ],
+            "oldQty": 400,
+            "newQty": 385
+        },
+        {
+            "category": "phone",
+            "name": "Galaxy S20",
+            "image": "https://images.samsung.com/is/image/samsung/uz_ru/galaxy-s20/gallery/uz-ru-galaxy-s20-g980-sm-g980fzadcac-frontcosmicgray-thumb-209107372?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "colors": "серый,голубой,красный",
+                    "capacity": "128 ГБ"
+                }
+            ],
+            "oldQty": 400,
+            "newQty": 385
+        },
+        {
+            "category": "phone",
+            "name": "Galaxy S20 Ultra 5G",
+            "image": "https://images.samsung.com/is/image/samsung/uz_ru/galaxy-s20/gallery/uz-ru-galaxy-s20-ultra-g988-sm-g988bzadcac-frontcosmicgray-thumb-209107652?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "colors": "серый,черный",
+                    "capacity": "128 ГБ"
+                }
+            ],
+            "oldQty": 400,
+            "newQty": 385
+        },
+        {
+            "category": "phone",
+            "name": "Galaxy S20+",
+            "image": "https://images.samsung.com/is/image/samsung/uz_ru/galaxy-s20/gallery/uz-ru-galaxy-s20-plus-g985-sm-g985flbdcac-frontcloudblue-thumb-209107450?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "colors": "голубой,черный,серый",
+                    "capacity": "128 ГБ"
+                }
+            ],
+            "oldQty": 400,
+            "newQty": 385
+        },
+        {
+            "category": "phone",
+            "name": "Galaxy S10",
+            "image": "https://images.samsung.com/is/image/samsung/kz-ru-galaxy-s10-g973-sm-g973fzwdskz-frontprismwhite-thumb-147335117?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "colors": "перламутр,оникс,аквамарин,красный",
+                    "capacity": "128 ГБ"
+                }
+            ],
+            "oldQty": 400,
+            "newQty": 385
+        },
+        {
+            "category": "phone",
+            "name": "Galaxy S10 Lite",
+            "image": "https://images.samsung.com/is/image/samsung/uz-ru-galaxy-s10-lite-g770-sm-g770fzbgcac-frontprismblue-thumb-216515382?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "colors": "синий,черный,перламутр",
+                    "capacity": "128 ГБ"
+                }
+            ],
+            "oldQty": 400,
+            "newQty": 385
+        },
+        {
+            "category": "phone",
+            "name": "Galaxy S10e",
+            "image": "https://images.samsung.com/is/image/samsung/kz-ru-galaxy-s10e-sm-g970fzgdskz-frontprismgreen-thumb-147308276?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "colors": "аквамарин,оникс,перламутр",
+                    "capacity": "128 ГБ"
+                }
+            ],
+            "oldQty": 400,
+            "newQty": 385
+        },
+        {
+            "category": "phone",
+            "name": "Galaxy S10+",
+            "image": "https://images.samsung.com/is/image/samsung/kz-ru-galaxy-s10-plus-sm-g975fzkdskz-frontprismblack-thumb-147295044?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "colors": "оникс,аквамарин,черная керамика,перламутр,красный,белая керамика",
+                    "capacity": "1 ТБ,128 ГБ"
+                }
+            ],
+            "oldQty": 410,
+            "newQty": 380
+        },
+        {
+            "category": "phone",
+            "name": "Galaxy Note20 Ultra",
+            "image": "https://images.samsung.com/is/image/samsung/uz_ru/galaxy-note20/gallery/uz-ru-galaxy-note20-plus-n985-sm-n985fzngcac-frontmysticbronze-thumb-277544954?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "colors": "mystic bronze,mystic black,mystic white",
+                    "capacity": "None"
+                }
+            ],
+            "oldQty": 378,
+            "newQty": 345
+        },
+        {
+            "category": "phone",
+            "name": "Galaxy Note20",
+            "image": "https://images.samsung.com/is/image/samsung/uz_ru/galaxy-note20/gallery/uz-ru-galaxy-note20-n980-sm-n980fzngcac-frontmysticbronze-thumb-277544769?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "colors": "mystic bronze,mystic gray,mystic green",
+                    "capacity": "None"
+                }
+            ],
+            "oldQty": 400,
+            "newQty": 385
+        },
+        {
+            "category": "phone",
+            "name": "Galaxy Note10",
+            "image": "https://images.samsung.com/is/image/samsung/kz-ru-galaxy-note10-sm-n970-sm-n970fzkdskz-frontaurablack-thumb-178397170?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "colors": "черный,аура,красный",
+                    "capacity": "256 ГБ"
+                }
+            ],
+            "oldQty": 470,
+            "newQty": 450
+        },
+        {
+            "category": "phone",
+            "name": "Galaxy Note10+",
+            "image": "https://images.samsung.com/is/image/samsung/kz-ru-galaxy-note10-plus-sm-n975-sm-n975fzkdskz-frontaurablack-thumb-178397371?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "colors": "черный,аура,белый",
+                    "capacity": "256 ГБ"
+                }
+            ],
+            "oldQty": 750,
+            "newQty": 700
+        },
+        {
+            "category": "phone",
+            "name": "Galaxy Note9",
+            "image": "https://images.samsung.com/is/image/samsung/kz-ru-galaxy-note9-n960-sm-n960fzbdser-frontblue-thumb-111363352?$PF_PRD_PNG$",
+            "params": [
+                {
+                    "colors": "синий,чёрный,лаванда",
+                    "capacity": "128 ГБ,512 ГБ"
+                }
+            ],
+            "oldQty": 420,
+            "newQty": 400
+        }
+    ]
+    
+   
+]
+   
